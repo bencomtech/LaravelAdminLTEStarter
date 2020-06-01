@@ -1,0 +1,14 @@
+{
+  "name": "quicksearch",
+  "homepage": "https://github.com/riklomas/quicksearch",
+  "_release": "1aabd844b9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1aabd844b96c239a8d0ab5a9a506f35b7541f1a9"
+  },
+  "_source": "git://github.com/riklomas/quicksearch.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/riklomas/quicksearch",
+  "_direct": true
+}

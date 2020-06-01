@@ -1,0 +1,53 @@
+.bootstrap-table .fixed-table-toolbar .columns .keep-open .dropdown-menu {
+  width: max-content;
+}
+
+.bootstrap-table .fixed-table-toolbar .form-inline .form-group {
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.form-horizontal .text-label {
+  padding-top: 7px;
+  margin-bottom: 0;
+}
+
+.datepicker {
+  border-radius: 0 !important;
+}
+
+.btn-w120 {
+  min-width: 120px;
+}
+
+.text-strong {
+  font-weight: bold;
+}
+
+.column-button .th-inner {
+  height: 35px !important;
+}
+
+.column-button .th-inner .btn {
+  padding: 0 6px !important;
+}
+
+@media (min-width: 768px) {
+  .toolbar-info {
+    display: inline-block;
+    display: -webkit-inline-box;
+  }
+}
+
+.toolbar-info > * {
+  margin-right: 4px;
+}
+
+.toolbar-info > ul {
+  padding-left: 25px;
+}
+
+.btn-app > .fas {
+  font-size: 20px;
+  display: block;
+}
